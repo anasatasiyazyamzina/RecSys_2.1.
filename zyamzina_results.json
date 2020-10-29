@@ -1,16 +1,14 @@
 {
-  "user": 7
-}, "1": {
-  " Movie 1": 1.992,
-  " Movie 11": 1.467,
-  " Movie 13": 1.99,
-  " Movie 18": 2.481,
-  " Movie 21": 1.225,
-  " Movie 28": 1.733
-
-}, "2": {
-  " Movie 1": 3.398
-} }
-
-
-// —сылка на Git: https://github.com/anastaiyazyamzina/RecSys_2.1./blob/main/Zyamzina%202.1%20recommed.ipynb
+    "user": 8,
+    "1": {
+        " Movie 1": 2.383,
+        " Movie 11": 2.885,
+        " Movie 13": 3.699,
+        " Movie 18": 2.706,
+        " Movie 21": 1.921,
+        " Movie 28": 3.932
+    },
+    "2": {
+        " Movie 1": 3.789
+    }
+}
